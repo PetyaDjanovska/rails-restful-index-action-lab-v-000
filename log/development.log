@@ -408,6 +408,7 @@ Started GET "/assets/student.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 72.89.52.223 at 2018-06-30 04:00:36 +0000
+<<<<<<< HEAD
 
 
 Started GET "/students" for 72.89.52.223 at 2018-06-30 04:36:32 +0000
@@ -437,3 +438,5 @@ Started GET "/assets/student.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde
 
 
 Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 72.89.52.223 at 2018-06-30 04:36:32 +0000
+=======
+>>>>>>> b0126c6e869e0f7a55256a2dafdbb684c5aca358
